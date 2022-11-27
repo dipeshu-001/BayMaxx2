@@ -8,16 +8,16 @@ import axios from 'axios'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['34623442554', '👑 Shizu - Creador 👑', true],
-  ['34623442554']
+  ['919609900020', '« Toshi||Kun »', true],
+  ['919609900020']
 ] 
-global.suittag = ['34623442554'] 
-global.prems = ['34623442554'] 
+global.suittag = ['919609900020'] 
+global.prems = ['919609900020'] 
 
 global.packname = '(≧▽≦)'
-global.author = '⍟𝗦𝗵𝗶𝘇𝘂 » 𝗛𝘂𝗯⍟'
-global.wm = '⍟𝗦𝗵𝗶𝘇𝘂 » 𝗕𝗼𝘁⍟ V5.3'
-global.igfg = '⍟𝗦𝗵𝗶𝘇𝘂 » 𝗕𝗼𝘁⍟'
+global.author = 'Toshi_sama'
+global.wm = 'BayMax 001'
+global.igfg = 'BayMax'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
